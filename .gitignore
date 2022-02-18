@@ -3,3 +3,11 @@
 /.idea/
 /src/META-INF/
 AutomatedCommands.iml
+
+# VS Code
+/.vscode/
+
+# Build files
+/bin/
+/lib/
+/jars/
