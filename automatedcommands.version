@@ -1,0 +1,13 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/TelluriumCrystal/AutomatedCommands/release/automatedcommands.version",
+	"modName":"Automated Commands",
+	"modThreadId":21576,
+	"modVersion":
+	{
+		"major":1,
+		"minor":3,
+		"patch":a
+	},
+	"starsectorVersion":"0.95.1a-RC6",
+	"directDownloadURL":"https://github.com/TelluriumCrystal/AutomatedCommands/releases/download/v1.3a/AutomatedCommands.v1.3a.zip",
+}
